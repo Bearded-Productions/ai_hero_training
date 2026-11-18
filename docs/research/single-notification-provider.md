@@ -1,6 +1,6 @@
 # One hosted provider for feed, email, and browser push
 
-Research for [issue #25](https://github.com/Bearded-Productions/ai_hero_training/issues/25), checked 2026-11-18. This is research, not a vendor selection or signup. Only public primary sources were used; no delivery or account-entitlement test was performed.
+Research for [Which single provider delivers the feed, email and web push?](https://github.com/Bearded-Productions/ai_hero_training/issues/25), checked 2026-11-18. This is research, not a vendor selection or signup. Only public primary sources were used; no delivery or account-entitlement test was performed.
 
 **Result: no fully verified current match.** NotificationAPI/Pingram is the strongest conditional candidate: its published technical material covers the requested architecture, including managed production email. However, current public pages do not establish that new accounts receive the headless inbox, browser push, and enforced user authentication on a usable free development tier. Engagespot's default-email quick start does not establish production delivery entitlement.
 
